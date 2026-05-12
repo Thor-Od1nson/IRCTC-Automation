@@ -1,0 +1,17 @@
+{
+  "UserID": "your_irctc_user_id",
+  "Password": "your_password",
+  "TrainNo": "12345",
+  "FromStation": "NDLS",
+  "ToStation": "BCT",
+  "Date": "25-12-2026",
+  "Class": "SL",
+  "Quota": "TATKAL",
+  "MobileNo": "9999999999",
+  "CaptchaWaitSec": 25,
+  "passengers": [
+    { "name": "Passenger One", "age": "30", "gender": "M" },
+    { "name": "Passenger Two", "age": "28", "gender": "F" },
+    { "name": "Passenger Three", "age": "35", "gender": "M" }
+  ]
+}
